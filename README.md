@@ -25,6 +25,9 @@
     git log - shows all commits made on a repo
     git checkout name - switches the branch 
     git remote - establishes link
+    git remote -v - lists all remote repos
+    
+
     
 
 
